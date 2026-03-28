@@ -58,13 +58,13 @@
 	  <distributionManagement>
 
             <repository>
-              <id>nexus-Release</id>
+              <id>nexus</id>
               <name>onlinebookstore-Release Nexus Repository</name>
               <url>http://13.233.127.159:8081/repository/onlinebookstore-Release/</url>
             </repository>
 
             <snapshotRepository>
-              <id>nexus-Snapshot</id>
+              <id>nexus</id>
               <name>onlinebookstore-Snapshot Nexus Repository</name>
               <url>http://13.233.127.159:8081/repository/onlinebookstore-Snapshot/</url>
             </snapshotRepository>
