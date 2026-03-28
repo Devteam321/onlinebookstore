@@ -3,7 +3,7 @@
   <groupId>onlinebookstore</groupId>
   <artifactId>onlinebookstore</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2</version>
+  <version>0.0.2-SNAPSHOT</version>
 	<name>onlinebookstore</name>
     <description>onlinebookstore Project for Java Project</description>
 	 <properties>
