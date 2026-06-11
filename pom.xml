@@ -3,7 +3,7 @@
   <groupId>onlinebookstore</groupId>
   <artifactId>onlinebookstore</artifactId>
   <packaging>war</packaging>
-  <version>0.0.2</version>
+  <version>0.0.1</version>
 	<name>onlinebookstore</name>
     <description>onlinebookstore Project for Java Project</description>
 	 <properties>
@@ -60,13 +60,13 @@
             <repository>
               <id>nexus</id>
               <name>onlinebookstore-Release Nexus Repository</name>
-              <url>http://3.110.212.110:8081/repository/onlinebookstore-Release/</url>
+              <url>http://65.2.124.166:8081/repository/onlinebookstore-Release/</url>
             </repository>
 
             <snapshotRepository>
               <id>nexus</id>
               <name>onlinebookstore-Snapshot Nexus Repository</name>
-              <url>http://3.110.212.110:8081/repository/onlinebookstore-Snapshot/</url>
+              <url>http://65.2.124.166:8081/repository/onlinebookstore-Snapshot/</url>
             </snapshotRepository>
 
         </distributionManagement>
