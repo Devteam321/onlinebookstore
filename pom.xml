@@ -8,7 +8,7 @@
     <description>onlinebookstore Project for Java Project</description>
 	 <properties>
         <!-- versions -->
-        <sonar.host.url>http://13.127.134.210:9000/</sonar.host.url>
+        <sonar.host.url>http://3.110.81.227:9000/</sonar.host.url>
         <sonar.login>squ_fa6487ee28dada13de6f6d3fb753a10a413f81f7</sonar.login>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
